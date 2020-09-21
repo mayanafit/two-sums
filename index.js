@@ -28,4 +28,3 @@ console.log(twoSums(arr1, target1))
 console.log(twoSums(arr2, target2))
 console.log(twoSums(arr3, target3))
 console.log(twoSums(arr4, target4))
-
