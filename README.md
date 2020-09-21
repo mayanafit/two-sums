@@ -1,6 +1,6 @@
 # two-sums
 
-two sums function is a function to find two elements that if the two elements are added, will return the same value as required target. Assumption, it's only one solution for each target.
+two sums function is a function to find two elements that if the two elements are added, will return the same value as required target. Assumption, it's only one solution for each target and we can't use the same element twice.
 
 example: 
 ```
